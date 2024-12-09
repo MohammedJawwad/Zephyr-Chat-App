@@ -40,36 +40,36 @@ Check out the live application: **[Zephyr Chat App](https://zephyr-chat-app.onre
 
 ---
 
-## 🛠️ Installation  
+# 🛠️ Installation  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/zephyr-chat-app.git
-   cd zephyr-chat-app
-   ```
-2. Install dependencies:
-# For backend
+## 1. Clone the repository:  
+```bash
+git clone https://github.com/MohammedJawwad/Zephyr-Chat-App.git
+cd Zephyr-Chat-App
+```
+## 2. Install dependencies:
+### For backend
 ```bash
 cd backend
 npm install
 ```
-# For frontend
+### For frontend
 ```bash
 cd ../frontend
 npm install
 ```
-3. Start the application:
-# Start backend
+## 3. Start the application:
+### Start backend
 ```bash
 cd backend
 npm start
 ```
-# Start frontend
+### Start frontend
 ```bash
 cd ../frontend
 npm run dev
 ```
-4. Access the app at http://localhost:3000.
+## 4. Access the app at http://localhost:3000.
 
 ---
 ## 🎨 Themes Preview
