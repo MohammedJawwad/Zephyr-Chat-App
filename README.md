@@ -24,10 +24,13 @@ Check out the live application: **[Zephyr Chat App](https://zephyr-chat-app.onre
 ![Chat Interface Screenshot](https://via.placeholder.com/800x400.png?text=Chat+Interface)
 
 ### 🔑 Login Page  
-![Login Page Screenshot](https://via.placeholder.com/800x400.png?text=Login+Page)
+![Login Page Screenshot](frontend/public/login.png)
 
 ### 🎨 Theme Selector  
-![Theme Selector Screenshot](https://via.placeholder.com/800x400.png?text=Theme+Selector)
+![Theme Selector Screenshot](frontend/public/themes.png)
+
+### 👩‍💻 Profile 
+![Profile Page](frontend/public/profile.png)
 
 ---
 
@@ -70,8 +73,3 @@ cd ../frontend
 npm run dev
 ```
 ## 4. Access the app at http://localhost:3000.
-
----
-## 🎨 Themes Preview
-Explore 32 themes and find the perfect vibe for your app!
----
