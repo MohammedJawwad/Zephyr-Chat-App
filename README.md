@@ -21,8 +21,8 @@ Check out the live application: **[Zephyr Chat App](https://zephyr-chat-app.onre
 ## 📸 Screenshots  
 
 ### 💬 Chat Interface  
-![Jawwad:](frontend/public/chat1.png)
-![Saba:](frontend/public/chat2.png)
+![Jawwad](frontend/public/chat1.png)
+![Saba](frontend/public/chat2.png)
 
 ### 🔑 Login Page  
 ![Login Page Screenshot](frontend/public/login.png)
